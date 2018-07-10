@@ -29,11 +29,11 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
-puts breakfast("pancakes").downcase
+puts breakfast("pancakes")
 
-puts lunch("sandwiches")
+puts lunch("peanut butter")
 
-puts dinner("filet mignon")
+puts dinner("broccoli")
 
 # Call your methods without any arguments here
 puts snacks
